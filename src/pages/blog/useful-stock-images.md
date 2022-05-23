@@ -9,16 +9,14 @@ thumb_image: /blog/python.png
 image_position: right
 author: src/data/authors/bgoonz.yaml
 categories:
-  - src/data/categories/git.yaml
+    - src/data/categories/git.yaml
 tags:
-  - src/data/tags/links.yaml
+    - src/data/tags/links.yaml
 show_author_bio: true
 cmseditable: true
 ---
 
-
-
-## Images: 
+## Images:
 
 ![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/0beuahctjrs_qcqgv.jpg?raw=true](https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/0beuahctjrs_qcqgv.jpg?raw=true)
 
@@ -346,7 +344,7 @@ cmseditable: true
 
 ![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/google-api.png?raw=true](https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/google-api.png?raw=true)
 
-![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/google-cloud%20(2).png?raw=true](https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/google-cloud%20(2).png?raw=true)
+![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/google-cloud%20(2).png?raw=true](<https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/google-cloud%20(2).png?raw=true>)
 
 ![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/google-cloud.png?raw=true](https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/google-cloud.png?raw=true)
 
@@ -592,7 +590,7 @@ cmseditable: true
 
 ![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/python3-15e88a3a.jpg?raw=true](https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/python3-15e88a3a.jpg?raw=true)
 
-![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/react%20(1).png?raw=true](https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/react%20(1).png?raw=true)
+![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/react%20(1).png?raw=true](<https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/react%20(1).png?raw=true>)
 
 ![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/react-banner.jpg?raw=true](https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/react-banner.jpg?raw=true)
 
@@ -660,7 +658,7 @@ cmseditable: true
 
 ![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/showcase.png?raw=true](https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/showcase.png?raw=true)
 
-![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/sine-wav-bak%20(1).gif?raw=true](https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/sine-wav-bak%20(1).gif?raw=true)
+![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/sine-wav-bak%20(1).gif?raw=true](<https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/sine-wav-bak%20(1).gif?raw=true>)
 
 ![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/skype.png?raw=true](https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/skype.png?raw=true)
 
@@ -754,7 +752,7 @@ cmseditable: true
 
 ![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/wordpress-logo.png?raw=true](https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/wordpress-logo.png?raw=true)
 
-![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/xcode%20(1).png?raw=true](https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/xcode%20(1).png?raw=true)
+![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/xcode%20(1).png?raw=true](<https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/xcode%20(1).png?raw=true>)
 
 ![https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/zumzi-video-chat.1.png?raw=true](https://raw.githubusercontent.com/bgoonz/BGOONZ_BLOG_2.0/master/static/images/zumzi-video-chat.1.png?raw=true)
 
